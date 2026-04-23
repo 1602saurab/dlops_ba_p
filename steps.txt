@@ -13,3 +13,16 @@ src > cnnClassifier > __init__.py data add
 main.py 
 
 python main.py 
+
+
+requirements.txt added and install 
+
+src > utils > common.py file ### for yaml file read and crate directory and loading 
+
+
+config > config.yaml file ### for data sourcing , loading and unzip 
+
+params.yaml file updated 
+
+
+research > data_ingestion.ipynb file 
